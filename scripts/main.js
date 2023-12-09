@@ -73,15 +73,15 @@ $(document).ready(function () {
     });
 
     gallerySlider.slick({
-        prevArrow: '<button class="slick-prev" ><img src="../images/leftGallery.png" alt="arrow"></button>',
-        nextArrow: '<button class="slick-next" ><img src="../images/rightGallery.png" alt="arrow"></button>',
+        prevArrow: '<button class="slick-prev" ><img src="images/leftGallery.png" alt="arrow"></button>',
+        nextArrow: '<button class="slick-next" ><img src="images/rightGallery.png" alt="arrow"></button>',
         dots: true,
         arrows: true,
     });
 
     $('.gallery-images_1023').slick({
-        prevArrow: '<button class="slick-prev" ><img src="../images/leftGallery.png" alt="arrow"></button>',
-        nextArrow: '<button class="slick-next" ><img src="../images/rightGallery.png" alt="arrow"></button>',
+        prevArrow: '<button class="slick-prev" ><img src="images/leftGallery.png" alt="arrow"></button>',
+        nextArrow: '<button class="slick-next" ><img src="images/rightGallery.png" alt="arrow"></button>',
         dots: true,
         arrows: true,
     });
